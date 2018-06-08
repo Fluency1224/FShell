@@ -1,0 +1,2 @@
+IP,HostName,CPU,Disk,Mem,Load
+192.168.1.149,ubuntu,Intel(R) i5-7500 CPU 3.40GHz,/dev/sda: 42.9 GB,Total Mem: 2015M,CurrentLoad:0.00

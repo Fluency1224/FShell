@@ -8,3 +8,12 @@ shell基础编程
 shell中级编程
 
 详解sed awk find grep命令在shell编程中的应用 
+
+# shell_job
+工作中的简单脚本
+
+# shell_device
+一个设备信息统计脚本
+
+# shell_monitor
+一个监控脚本
